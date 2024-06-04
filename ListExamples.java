@@ -15,6 +15,8 @@ class ListExamples {
         result.add(0, s);
       }
     }
+
+    System.out.println("Random code");
     return result;
   }
 
